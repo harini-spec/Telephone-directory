@@ -106,7 +106,7 @@ closegraph();
 
 y:
 
-char*pass="SANJ";
+char*pass="harini";
 
 char*ppass;
 
